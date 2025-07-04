@@ -27,6 +27,7 @@ Prediction: Input a new SMS message to classify it as spam or ham.
 
 
 🚀 Getting Started
+
 Prerequisites
 Make sure you have Python installed. Then install the required packages:
 
@@ -52,6 +53,8 @@ Spam
 
 
 🧠 Model Used
+
+
 TF-IDF Vectorizer: Converts text into numerical format based on term importance.
 
 Multinomial Naive Bayes: A probabilistic classifier best suited for text classification.
@@ -64,6 +67,8 @@ Precision/Recall/F1: Evaluated using test set.
 
 
 ##How to run
+
+
 -Open app.py file on vs code
 -open terminal
 -write streamlit run app.py
